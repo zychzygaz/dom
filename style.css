@@ -57,7 +57,7 @@ button:hover {
 }
 
 .row {
-    margin: 10px;
+    margin: 15px 10px;
 }
 
 .row2 {
@@ -71,4 +71,8 @@ button:hover {
     border-radius: 10px;
     margin-top: 120px;
     margin-left: 60px;
+}
+
+input.error {
+    border-color: red;
 }
